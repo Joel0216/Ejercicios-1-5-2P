@@ -1,0 +1,14 @@
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\bin\Debug\net9.0\ejercicio4.exe
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\bin\Debug\net9.0\ejercicio4.deps.json
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\bin\Debug\net9.0\ejercicio4.runtimeconfig.json
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\bin\Debug\net9.0\ejercicio4.dll
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\bin\Debug\net9.0\ejercicio4.pdb
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\obj\Debug\net9.0\ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\obj\Debug\net9.0\ejercicio4.AssemblyInfoInputs.cache
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\obj\Debug\net9.0\ejercicio4.AssemblyInfo.cs
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\obj\Debug\net9.0\ejercicio4.csproj.CoreCompileInputs.cache
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\obj\Debug\net9.0\ejercicio4.dll
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\obj\Debug\net9.0\refint\ejercicio4.dll
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\obj\Debug\net9.0\ejercicio4.pdb
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\obj\Debug\net9.0\ejercicio4.genruntimeconfig.cache
+c:\Users\Joel\Downloads\Ejercicio4\ejercicio4\obj\Debug\net9.0\ref\ejercicio4.dll
